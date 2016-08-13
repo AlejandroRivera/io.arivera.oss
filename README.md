@@ -3,8 +3,8 @@
 This is my Open Source Software home page.
 
 ## Projects created:
- * [maven-env](https://github.com/AlejandroRivera/maven-env): Maven Virtual Environment tool, like `env` is for Python
  * [embedded-rabbitmq](https://github.com/AlejandroRivera/embedded-rabbitmq): RabbitMQ as an embedded service for JVM projects.
+ * [maven-env](https://github.com/AlejandroRivera/maven-env): Maven Virtual Environment tool, like `env` is for Python
  * [slack-reactiongifs](https://github.com/AlejandroRivera/slack-reactiongifs): Slack integration with reactiongifs.com for comic relief.
 
 ## Project contributions:
